@@ -1,8 +1,4 @@
-# Study algorithm like 42-style 
+# 42-algorithm
 
-I have finished linked_list  
-I'm probably back to study in July and then restart from **stack**
-
-
-School : https://github.com/nadarm/42-algorithm *(you can find "Problems" from this)*  
-Thank you for his hard work.
+자료구조부터 알고리즘까지  
+학습공간 : https://github.com/nadarm/42-algorithm
